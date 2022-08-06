@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTimothy&count_private=true&theme=github_dark&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTimothy&count_private=true&theme=github_dark&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTimothy&layout=compact&hide=shell,ruby)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NTimothy/NTimothy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
